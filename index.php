@@ -185,8 +185,8 @@ function curl_post()
 }
 
 function webservice(){
-	$auth_url = 'http://197.232.25.77:8090/mpesaservice/authenticate';
-	$stk_push_url = 'http://197.232.25.77:8090/mpesaservice/api/stk/STKPush';
+	$auth_url = 'IP ADRDRESS:8090/mpesaservice/authenticate';
+	$stk_push_url = 'IP ADDRESS:8090/mpesaservice/api/stk/STKPush';
 	$username= 'okoth@mail.com';
 	$password = 'zg3qwfq52fawe';
 
